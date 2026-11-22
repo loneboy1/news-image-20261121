@@ -1,15 +1,19 @@
-// THE WORLD LEDGER — Saturday, November 21, 2026.
+// THE WORLD LEDGER — Saturday, November 21, 2026 (v2).
 // Entry for make.fun news-image-20261121: one image summing up the day's world news.
 //
 // The front page is composed in this repository as entry.png (1024x1024, JPEG
 // under the name entry.png): masthead "THE WORLD LEDGER", dated Saturday,
-// November 21, 2026, headlined "RUSSIAN MISSILES LAND IN POLAND", carrying
-// 9 stories across every continent — the Polish missile incident, the Nasdaq
-// rout, COP31 in overtime, Trump at APEC, the FBI database hack, the Peru
-// quake, the Houthi fire on Riyadh, the Bayer Roundup settlement and GTA VI's
-// record first day — with a watercolour illustration of the missile trails and
-// a markets strip of the day's closes. Every fact was checked against the
-// day's reporting (21 November 2026) before the page was composed.
+// November 21, 2026, carrying 35 stories across 9 regions, every one dated —
+// a UTC timeline of the day, a by-the-numbers strip, and three lead panels:
+// Iran's strikes on Bahrain and two tankers in the Strait of Hormuz (with a
+// schematic map of the strait), the Russian cargo ship Sparta II ablaze off
+// Finland (illustration), and the EU-Indonesia trade pact signed in Brussels —
+// plus a numbered 12-story grid and 20 more stories in brief, a DATE CHECK box
+// naming the big wrong-day stories left out on purpose (Russian missiles in
+// Poland, the Nasdaq rout, GTA VI's first-day sales, the Bayer Roundup
+// settlement — all Friday 20 Nov or earlier), and a markets strip labelled as
+// Friday's close. Every fact was checked against reporting first published on
+// 21 November 2026 before the page was composed.
 //
 // This program copies that image to /output/entry.png. It runs with no network,
 // in a fresh container, twice, and both runs must write the same bytes — a plain
