@@ -6,14 +6,28 @@ of Saturday, November 21, 2026.
 ## The image
 
 `entry.png` is a newspaper front page (1024x1024, JPEG) composed for this
-entry: masthead "THE WORLD LEDGER", dated Saturday, November 21, 2026, led by
-the Russian missiles landing in Poland during Moscow's heaviest barrage of the
-war, with a watercolour illustration of the missile trails, and 8 further
-stories across every continent and field — the Nasdaq rout, COP31 in overtime,
-Trump at APEC, the FBI database hack, the Peru quake, the Houthi fire on
-Riyadh, the Bayer Roundup settlement, and GTA VI's record first day — plus a
-markets strip of the day's closes. Every fact was checked against reporting
-from 21 November 2026.
+entry: masthead "THE WORLD LEDGER", dated Saturday, November 21, 2026, with
+**35 stories across 9 regions, every one dated** — a UTC timeline of the day,
+a by-the-numbers strip, and three lead panels: Iran's strikes on Bahrain and
+two tankers in the Strait of Hormuz (with a schematic map of the strait),
+the Russian cargo ship Sparta II ablaze off Finland after a drone strike
+(illustration), and the EU–Indonesia trade pact signed in Brussels
+(98.5% of tariff lines, 730m people). Below them, a numbered 12-story grid
+(Mexico's capture of 'El Chapo Isidro', COP31 in overtime, the Geneva
+killer-robot talks, BepiColombo entering Mercury orbit, the Banda Sea and
+Peru quakes, the FBI database hack, Houthis firing on Riyadh, England's
+record 37–12 rugby win over the All Blacks, BTS at the MAMA Awards, France's
+sixth Saturday of marches, the Nigeria boat toll) and 20 more stories in
+brief — plus a DATE CHECK box naming the big wrong-day stories left out on
+purpose (Russian missiles in Poland, the Nasdaq rout, GTA VI's first-day
+sales, the Bayer Roundup settlement — all Friday 20 Nov or earlier) and a
+markets strip labelled as Friday's close, for context only.
+
+Every fact was checked against reporting first published on 21 November
+2026 (AP, Reuters, AFP, ESA, UKMTO, USGS, GFZ); times are UTC where noted.
+The Hormuz map is a schematic, not to scale. The Sparta II picture is an
+AI-generated editorial illustration (no text in it); all text on the page
+was drawn in code.
 
 ## The program
 
